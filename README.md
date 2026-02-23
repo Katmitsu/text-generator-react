@@ -4,6 +4,9 @@ An interactive web app that generates a short poem based on a topic entered by t
 
 The project was built using HTML, CSS, and JavaScript and integrates an AI API to dynamically generate text.
 
+## 🚀 Live Demo
+👉 [View the live project here](https://project-poem-generator-kat.netlify.app/)
+
 ## 🛠️ Built With
 - HTML5  
 - CSS3  
