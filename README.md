@@ -1,22 +1,22 @@
-📝 AI Poem Generator
+# 📝 AI Poem Generator
 
 An interactive web app that generates a short poem based on a topic entered by the user.
 
 The project was built using HTML, CSS, and JavaScript and integrates an AI API to dynamically generate text.
 
-🛠️ Built With
+## 🛠️ Built With
 - HTML5  
 - CSS3  
 - JavaScript (ES6)  
 - AI API Integration  
 
-✨ Features
+## ✨ Features
 - User enters a word or theme
 - Sends request to AI API
 - Dynamically displays generated poem
 - Responsive design
 
-📚 What I Practiced
+## 📚 What I Practiced
 - Working with AI APIs
 - DOM manipulation
 - Prompt writing
